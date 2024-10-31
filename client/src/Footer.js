@@ -3,7 +3,7 @@ import React from 'react';
 function Footer() {
   return (
     <footer>
-      <p>&copy; 2023 Social Media Dashboard</p>
+      <p>&copy; 2024 Social Media Dashboard</p>
     </footer>
   );
 }
