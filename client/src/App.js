@@ -3,6 +3,7 @@ import Header from './Header.js';
 import Feed from './Feed.js';
 import Sidebar from './Sidebar.js';
 import Footer from './Footer.js';
+import './styles/main.css';
 
 function App() {
   return (
