@@ -8,8 +8,10 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <Sidebar />
-      <Feed />
+      <div style={{ display: 'flex', gap: '10px' }}>
+        <Sidebar />
+        <Feed />
+      </div>
       <Footer />
     </div>
   );
